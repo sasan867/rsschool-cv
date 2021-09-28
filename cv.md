@@ -6,10 +6,15 @@
 ## Summary
 Want to study at RS school and become frontend developer.I am а quick learner, open to change and well-organized. Able to prioritize and adapt well to new situations.
 ## Skills
-Git,HTML,CSS,JS. (basic)
+Basic :
+* Git
+* HTML
+* CSS 
+* JS 
 ## Code examples
-javascript
+```javascript
 let sum = (a, b) => a + b;
+```
 ## Courses
 self-study based on books and videos
 ## English
